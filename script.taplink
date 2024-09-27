@@ -1,4 +1,3 @@
-<script>
 window.addEventListener('DOMContentLoaded', () => {
     	const icon = document.querySelector('.pulse'),
         	open = document.querySelector('.icon-open'),
@@ -11,4 +10,3 @@ window.addEventListener('DOMContentLoaded', () => {
      	   icon.classList.toggle('stoppulse');
     	});
 	})
- </script>
